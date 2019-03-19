@@ -22,6 +22,6 @@ The app makes use of the haversine formula to calculate distances between bussto
 7. To restart, click on 'New Trip'
 
 ## Credits
-* **Oracking Amenreynolds
+* **Oracking Amenreynolds**
 * **Kelvin Ampene**
 * **Otitodirichukwu N. Effiong-Akpan**
