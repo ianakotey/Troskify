@@ -2,6 +2,7 @@
 Small web-based app to recommend public transportation routes within the city of Accra, Ghana
 
 # Prerequisites
+* Linux system (**Debian-based OS** preferred)
 ```
 * Java 10
 ```
